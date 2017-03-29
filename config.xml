@@ -44,6 +44,6 @@
 		<preference name="disable-cursor" value="false" />
 		<gap:platform name="android" />
 		<feature name="http://api.phonegap.com/1.0/file"/>
-		<icon src="imagenes/logor.png" gap:platform="android" gap:density="hdpi" />
+		<icon src="imagenes/logo.jpg" gap:platform="android" gap:density="hdpi" />
 		<gap:splash src="imagenes/portada.jpg" gap:platform="android" gap:density="mdpi" />
 </widget>
