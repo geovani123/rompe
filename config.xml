@@ -10,7 +10,7 @@
 		Geovani guadalupe degante duran		
 		</author>
 		
-		<preference name="phonegap-version" value="cli-6.5.0" />
+		<preference name="phonegap-version" value="3.3.0" />
 		<preference name="orientation" value="default" />
 		<preference name="fullscreen" value="false" />
 		<preference name="target-device" value="universal" />
