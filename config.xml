@@ -10,7 +10,7 @@
 		Geovani guadalupe degante duran		
 		</author>
 		
-		<preference name="phonegap-version" value="3.0.0" />
+		<preference name="phonegap-version" value="3.3.0" />
 		<preference name="orientation" value="default" />
 		<preference name="fullscreen" value="false" />
 		<preference name="target-device" value="universal" />
@@ -44,6 +44,6 @@
 		<preference name="disable-cursor" value="false" />
 		<gap:platform name="android" />
 		<feature name="http://api.phonegap.com/1.0/file"/>
-		<icon src="imagenes/ji.png" gap:platform="android" gap:density="hdpi" />
+		<icon src="imagenes/ji.png" gap:platform="android" gap:density="mdpi" />
 		<gap:splash src="imagenes/portada.jpg" gap:platform="android" gap:density="mdpi" />
 </widget>
